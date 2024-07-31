@@ -43,13 +43,12 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 
 **Auditory attention detection based on EEG signals**
 
+The Chinese University of Hong Kong, Shenzhen
 Human Language Technology Lab, Supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498)
 
-- Literature Review: Systematically integrate EEG decoding studies from the past decade, focusing on spatial localization. Compare datasets, algorithm models, and results to lay a data-driven foundation for further research.
-- Ear-EEG Signal Collection: Use cEEGrid devices for high-quality ear-EEG signal collection, ensuring comprehensive data integrity for subsequent analysis and deep learning model training.
-- Dataset Preprocessing: Preprocess public EEG datasets by removing artifacts and downsampling to prepare raw signals for neural network input, enhancing data quality and model training efficacy.
-- Model Training: Employ deep learning models (attention-based, CNN-based, RNN-based, ML-based) on public datasets to predict attention direction and trajectory from EEG data, improving predictive accuracy.
-- Data Visualization: Utilize charts and visual tools to present experimental processes and research findings, enhancing clarity and ease of analysis.
+- Literature Review and Data Foundation: Integrate and compare EEG decoding studies from the past decade, focusing on spatial localization, to establish a solid, data-driven foundation for future research.
+- Data Collection and Preprocessing: Use cEEGrid devices for high-quality ear-EEG signal collection and preprocess public EEG datasets by removing artifacts and downsampling to enhance data quality for model training.
+- Model Training and Visualization: Apply various deep learning models (attention-based, CNN-based, RNN-based, ML-based) on public datasets to predict attention direction and trajectory, and use visual tools to present experimental processes and findings clearly.
 </div>
 </div>
 
@@ -58,13 +57,12 @@ Human Language Technology Lab, Supervised by [Prof. Haizhou Li](https://sds.cuhk
 
 **AI-Assisted Fetal Heart Monitoring**
 
+Shenzhen Research Institute of Big Data (SRIBD)
 Medical Big Data Lab, Supervised by [Prof. Xiang Wan](https://www.sribd.cn/en/teacher/28)
 
-- Data Cleaning: Process fetal heart rate (FHR) signals using linear and cubic spline interpolation to handle missing values and anomalies, creating a smooth, continuous dataset.
-- Model Prediction: Predict fetal pH values with various models (KNN, SVM, Random Forest, XGBoost) and note that the Transformer model underperformed, likely due to insufficient data.
-- Wavelet Transform: Perform Continuous Wavelet Transform (CWT) on FHR signals and save the transformed data as images for classification tasks.
-- Image Classification: Train a ResNet50 model on wavelet-transformed images, optimizing parameters to improve model performance, with AUC increasing from 0.48 to 0.77.
-- Private Dataset Cleaning: Merge and clean private medical data from multiple tables into a comprehensive dataset for blood gas analysis, and use median filtering to reduce noise in signal data.
+- Data Cleaning and Preprocessing: Handle missing values and anomalies in fetal heart rate (FHR) signals using interpolation, and clean private medical data with median filtering to create smooth and comprehensive datasets.
+- Model Prediction and Evaluation: Predict fetal pH values using various models (KNN, SVM, Random Forest, XGBoost), noting that the Transformer model underperformed due to insufficient data.
+- Wavelet Transform and Image Classification: Apply Continuous Wavelet Transform (CWT) on FHR signals, convert them into images, and train a ResNet50 model for classification, achieving an AUC improvement from 0.48 to 0.77.
 </div>
 </div>
 
