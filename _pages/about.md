@@ -64,6 +64,19 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/project2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Protein-protein interaction prediction using deep learning models**
+
+[Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en/), Supervised by [Prof. Gang Cao](https://www.suat-sz.edu.cn/info/1166/1788.htm)
+
+- Construct Non-redundant Sequences: Use CD-HIT to select the longest sequence from each group with a 0.7 similarity threshold, reducing positive samples from 8602 to 3880 and negative samples from 8490 to 3844. This decreases data volume and saves computational resources.
+- Literature Review: Review studies using protein sequences or structures for predicting protein interactions. Summarize models, methods, datasets, and results, and explore protein feature embedding techniques for developing a PPI prediction model.
+- Model Testing and Analysis: Evaluate open-source PPI prediction models on public datasets (yeast, E. coli, human). Analyze, compare, and summarize the model predictions and results.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
