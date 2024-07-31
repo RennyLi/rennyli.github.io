@@ -43,7 +43,7 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 
 **Auditory attention detection based on EEG signals**
 
-Human Language Technology Lab, Supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498)
+[Human Language Technology Lab](https://sds.cuhk.edu.cn/en/article/588), Supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498)
 
 - Literature Review and Data Foundation: Integrate and compare EEG decoding studies from the past decade, focusing on spatial localization, to establish a solid, data-driven foundation for future research.
 - Data Collection and Preprocessing: Use cEEGrid devices for high-quality ear-EEG signal collection and preprocess public EEG datasets by removing artifacts and downsampling to enhance data quality for model training.
@@ -56,7 +56,7 @@ Human Language Technology Lab, Supervised by [Prof. Haizhou Li](https://sds.cuhk
 
 **AI-Assisted Fetal Heart Monitoring**
 
-Medical Big Data Lab, Supervised by [Prof. Xiang Wan](https://www.sribd.cn/en/teacher/28)
+[Medical Big Data Lab](https://www.sribd.cn/en/znyy/medical), Supervised by [Prof. Xiang Wan](https://www.sribd.cn/en/teacher/28)
 
 - Data Cleaning and Preprocessing: Handle missing values and anomalies in fetal heart rate (FHR) signals using interpolation, and clean private medical data with median filtering to create smooth and comprehensive datasets.
 - Model Prediction and Evaluation: Predict fetal pH values using various models (KNN, SVM, Random Forest, XGBoost), noting that the Transformer model underperformed due to insufficient data.
