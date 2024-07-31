@@ -38,18 +38,18 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 
 # 📝 Research Experience
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='project1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/project1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Auditory attention detection based on EEG signals**
 
 Human Language Technology Lab, supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498)
 
-- Literature Review and Integration: Systematically search and integrate literature on EEG decoding for spatial localization over the past decade. Summarize and compare datasets, algorithm models, and their results to form a data-driven literature review, providing a foundation for further research.
-- Ear-EEG Signal Data Collection: Use cEEGrid devices to collect ear-EEG signals, ensuring high quality and completeness of data, providing a reliable data source for subsequent analysis and deep learning model training.
-- Dataset Preprocessing: Preprocess public EEG datasets, including artifact removal and downsampling, to convert raw EEG signals into a data format suitable for neural network model input, improving data quality and model training effectiveness.
-- Model Training and Testing: Utilize deep learning models (attention-based, CNN-based, RNN-based, ML-based) for training and testing on public datasets to detect attention direction and trajectory from EEG data, enhancing the model's predictive capability.
-- Data and Results Visualization: Use charts and visualization tools to present data, experimental processes, and research results, making the research content more intuitive, understandable, and easier to analyze.
+- Literature Review: Systematically integrate EEG decoding studies from the past decade, focusing on spatial localization. Compare datasets, algorithm models, and results to lay a data-driven foundation for further research.
+- Ear-EEG Signal Collection: Use cEEGrid devices for high-quality ear-EEG signal collection, ensuring comprehensive data integrity for subsequent analysis and deep learning model training.
+- Dataset Preprocessing: Preprocess public EEG datasets by removing artifacts and downsampling to prepare raw signals for neural network input, enhancing data quality and model training efficacy.
+- Model Training: Employ deep learning models (attention-based, CNN-based, RNN-based, ML-based) on public datasets to predict attention direction and trajectory from EEG data, improving predictive accuracy.
+- Data Visualization: Utilize charts and visual tools to present experimental processes and research findings, enhancing clarity and ease of analysis.
 </div>
 </div>
 
