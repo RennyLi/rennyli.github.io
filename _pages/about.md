@@ -38,12 +38,12 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 
 # 📝 Research Experience
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/project1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mar 2024</div><img src='images/project1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Auditory attention detection based on EEG signals**
 
-Human Language Technology Lab, supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498)
+Human Language Technology Lab, Supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498)
 
 - Literature Review: Systematically integrate EEG decoding studies from the past decade, focusing on spatial localization. Compare datasets, algorithm models, and results to lay a data-driven foundation for further research.
 - Ear-EEG Signal Collection: Use cEEGrid devices for high-quality ear-EEG signal collection, ensuring comprehensive data integrity for subsequent analysis and deep learning model training.
@@ -53,7 +53,20 @@ Human Language Technology Lab, supervised by [Prof. Haizhou Li](https://sds.cuhk
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/project2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**AI-Assisted Fetal Heart Monitoring**
+
+Medical Big Data Lab, Supervised by [Prof. Xiang Wan](https://www.sribd.cn/en/teacher/28)
+
+- Data Cleaning: Process fetal heart rate (FHR) signals using linear and cubic spline interpolation to handle missing values and anomalies, creating a smooth, continuous dataset.
+- Model Prediction: Predict fetal pH values with various models (KNN, SVM, Random Forest, XGBoost) and note that the Transformer model underperformed, likely due to insufficient data.
+- Wavelet Transform: Perform Continuous Wavelet Transform (CWT) on FHR signals and save the transformed data as images for classification tasks.
+- Image Classification: Train a ResNet50 model on wavelet-transformed images, optimizing parameters to improve model performance, with AUC increasing from 0.48 to 0.77.
+- Private Dataset Cleaning: Merge and clean private medical data from multiple tables into a comprehensive dataset for blood gas analysis, and use median filtering to reduce noise in signal data.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
