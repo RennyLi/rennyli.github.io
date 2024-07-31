@@ -38,10 +38,9 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 
 # 📝 Research Experience
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='project1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 **Auditory attention detection based on EEG signals**
 
 Human Language Technology Lab, supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498)
