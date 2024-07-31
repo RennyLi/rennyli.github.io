@@ -17,15 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior student majoring in Computer Science and Technology in The Chinese University of Hong Kong, Shenzhen. 
+Thank for stopping by!
 
-I am now working on Auditory spatial attention detection (ASAD), AIGC in human-computer interaction, and protein-protein interaction using GCN, under the supervision of Prof. Haizhou Li (李海洲), Prof. Pengcheng An (安鹏铖), and Prof. Gang Cao (曹罡). If you are interested in my research, please feel free to contact me at 119010148@link.cuhk.edu.cn. I am more than happy to discuss with you about these topics.
+I am Jingquan Li. Maybe it is hard to pronounce, so you can just call me Renny. I'a fourth-year Computer Science undergraduate student at The Chinese University of Hong Kong, Shenzhen, supervised by Prof. Haizhou Li in the Human Language Technology Lab, focusing on auditory attention detection from EEG signals. Additionally, I am fortunate to be a member in the Medical Big Data Lab of Shenzhen Research Institute of Big Data (SRIBD) under the supervision of Prof. Xiang Wan, exploring medical imaging with machine learning methods. Besides, I am also grateful to Prof. Pengcheng An and Prof. Gang Cao to give me research opportunities about human-computer interaction and biomedical engineering using AI.
 
-My research interest includes auditory attention decoding (AAD), human-computer interaction (HCI), and biology techonology. 
+My research interests are centered around human-computer interaction and machine learning, focusing on auditory attention detection, medical imaging, and generative AI for videos. Now I am actively seeking Ph.D. positions starting from 25 Fall. If you are interested in hiring an experienced and self-motivated candidate, please do not hesitate to contact me at jingquanli@link.cuhk.edu.cn
 
-Furthermore, I also have several internship experiences as a product manager and a software development engineer. I worked in Microsoft, ByteDance, and Tencent, under the mentorship of Xinwei Nie (聂鑫伟), Yuxuan Guo (郭玉瑄), and Lin Lin (林琳). 
+Apart from my academic interests, I’m a passionate music enthusiast as well as a band drummer. I love metalcore and fusion music. Bring Me To Horizon and ONE OK ROCK are my two favorite bands.
 
-Last but not least, I'm also a music lover, and play drums in several bands. 
+Thank you for taking the time to learn a bit more about me. Let’s connect and see how we can make the world a better place through technology and our shared interests!
 
 <!--
 # 🔥 News
