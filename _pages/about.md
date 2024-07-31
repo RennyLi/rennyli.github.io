@@ -17,15 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Thank for stopping by!
+Hello! I am Jingquan Li, but you can call me Renny if that's easier. I'm a fourth-year Computer Science undergraduate student at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498) in the [Human Language Technology Lab](https://sds.cuhk.edu.cn/en/article/588), focusing on auditory attention detection from EEG signals. Additionally, I am honored to be a member of the Medical Big Data Lab at [Shenzhen Research Institute of Big Data (SRIBD)](https://www.sribd.cn/en), where I [Prof. Xiang Wan](https://www.sribd.cn/en/teacher/28), exploring medical imaging with machine learning methods. Besides, I am also grateful to [Prof. Pengcheng An](https://scholar.google.com/citations?user=8NN-2uYAAAAJ&hl=en) and [Prof. Gang Cao](https://www.suat-sz.edu.cn/info/1166/1788.htm) for providing me with research opportunities in human-computer interaction and biomedical engineering using AI.
 
-I am Jingquan Li. Maybe it is hard to pronounce, so you can just call me Renny. I'a fourth-year Computer Science undergraduate student at The Chinese University of Hong Kong, Shenzhen, supervised by Prof. Haizhou Li in the Human Language Technology Lab, focusing on auditory attention detection from EEG signals. Additionally, I am fortunate to be a member in the Medical Big Data Lab of Shenzhen Research Institute of Big Data (SRIBD) under the supervision of Prof. Xiang Wan, exploring medical imaging with machine learning methods. Besides, I am also grateful to Prof. Pengcheng An and Prof. Gang Cao to give me research opportunities about human-computer interaction and biomedical engineering using AI.
+My research interests are primarily in human-computer interaction and machine learning. To be specific, I am motivated by the following topics:
+- Natural language processing: Selective auditory attention detection based on EEG signals.
+- Machine learning in biomedical engineering: Integrating electronic medical records, medical imaging, health check reports and multi-omics data to aid pre-diagnosis and personalized treatment using machine learning technologies.
+- Human-Computer interaction：Focusing on human-AI interaction, generative AI, education, and therapeutic AI.
 
-My research interests are centered around human-computer interaction and machine learning, focusing on auditory attention detection, medical imaging, and generative AI for videos. Now I am actively seeking Ph.D. positions starting from 25 Fall. If you are interested in hiring an experienced and self-motivated candidate, please do not hesitate to contact me at jingquanli@link.cuhk.edu.cn
+I am actively seeking Ph.D. positions starting in Fall 2025. If you are looking for a dedicated and motivated candidate, please feel free to contact me at jingquanli@link.cuhk.edu.cn.
 
-Apart from my academic interests, I’m a passionate music enthusiast as well as a band drummer. I love metalcore and fusion music. Bring Me To Horizon and ONE OK ROCK are my two favorite bands.
+Beyond my academic persuits, I am a passionate music enthusiast and a band drummer. I enjoy metalcore and fusion music, with Bring Me The Horizon and ONE OK ROCK being my favorite bands.
 
-Thank you for taking the time to learn a bit more about me. Let’s connect and see how we can make the world a better place through technology and our shared interests!
+Thank you for taking the time to learn about me. I look forward to connecting and exporing how we can collaborate to make a positive impact through technology and our shared passions!
 
 <!--
 # 🔥 News
