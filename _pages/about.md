@@ -21,8 +21,8 @@ Hello! I am Jingquan Li, but you can call me Renny if that's easier. I'm a fourt
 
 My research interests are primarily in human-computer interaction and machine learning. To be specific, I am motivated by the following topics:
 - Natural language processing: Selective auditory attention detection based on EEG signals.
-- Machine learning in biomedical engineering: Integrating electronic medical records, medical imaging, health check reports and multi-omics data to aid pre-diagnosis and personalized treatment using machine learning technologies.
 - Human-Computer interaction：Focusing on human-AI interaction, generative AI, education, and therapeutic AI.
+- Machine learning in biomedical engineering: Integrating electronic medical records, medical imaging, health check reports and multi-omics data to aid pre-diagnosis and personalized treatment using machine learning technologies.
 
 I am actively seeking Ph.D. positions starting in Fall 2025. If you are looking for a dedicated and motivated candidate, please feel free to contact me at jingquanli@link.cuhk.edu.cn.
 
