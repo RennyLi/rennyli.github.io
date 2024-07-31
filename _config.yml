@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jingquan Li's Personal Website"
-description              : "Welcome to my personal website, where I share my academic research, internship experiences, and personal life stories. "
+description              : "The Chinese University of Hong Kong, Shenzhen "
 repository               : "RennyLi/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "119010148@link.cuhk.edu.cn"
+  email            : "jingquanli@link.cuhk.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
