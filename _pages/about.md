@@ -43,7 +43,6 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 
 **Auditory attention detection based on EEG signals**
 
-The Chinese University of Hong Kong, Shenzhen
 Human Language Technology Lab, Supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498)
 
 - Literature Review and Data Foundation: Integrate and compare EEG decoding studies from the past decade, focusing on spatial localization, to establish a solid, data-driven foundation for future research.
@@ -57,7 +56,6 @@ Human Language Technology Lab, Supervised by [Prof. Haizhou Li](https://sds.cuhk
 
 **AI-Assisted Fetal Heart Monitoring**
 
-Shenzhen Research Institute of Big Data (SRIBD)
 Medical Big Data Lab, Supervised by [Prof. Xiang Wan](https://www.sribd.cn/en/teacher/28)
 
 - Data Cleaning and Preprocessing: Handle missing values and anomalies in fetal heart rate (FHR) signals using interpolation, and clean private medical data with median filtering to create smooth and comprehensive datasets.
