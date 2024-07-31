@@ -28,7 +28,7 @@ I am actively seeking Ph.D. positions starting in Fall 2025. If you are looking 
 
 Beyond my academic persuits, I am a passionate music enthusiast and a band drummer. I enjoy metalcore and fusion music, with Bring Me The Horizon and ONE OK ROCK being my favorite bands.
 
-Thank you for taking the time to learn about me. I look forward to connecting and exporing how we can collaborate to make a positive impact through technology and our shared passions!
+Thank you for taking the time to learn about me. I look forward to connecting and exploring how we can collaborate to make a positive impact through technology and our shared passions!
 
 <!--
 # 🔥 News
@@ -42,11 +42,15 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Auditory attention detection based on EEG signals**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Human Language Technology Lab, supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Literature Review and Integration: Systematically search and integrate literature on EEG decoding for spatial localization over the past decade. Summarize and compare datasets, algorithm models, and their results to form a data-driven literature review, providing a foundation for further research.
+- Ear-EEG Signal Data Collection: Use cEEGrid devices to collect ear-EEG signals, ensuring high quality and completeness of data, providing a reliable data source for subsequent analysis and deep learning model training.
+- Dataset Preprocessing: Preprocess public EEG datasets, including artifact removal and downsampling, to convert raw EEG signals into a data format suitable for neural network model input, improving data quality and model training effectiveness.
+- Model Training and Testing: Utilize deep learning models (attention-based, CNN-based, RNN-based, ML-based) for training and testing on public datasets to detect attention direction and trajectory from EEG data, enhancing the model's predictive capability.
+- Data and Results Visualization: Use charts and visualization tools to present data, experimental processes, and research results, making the research content more intuitive, understandable, and easier to analyze.
 </div>
 </div>
 
