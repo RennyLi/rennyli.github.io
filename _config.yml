@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jingquan Li's Personal Website"
-description              : "The Chinese University of Hong Kong, Shenzhen "
+description              : "Research interests: Human-computer interaction, machine learning"
 repository               : "RennyLi/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jingquan (Renny) Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Research interests: Human-computer interaction, machine learning"
+  bio              : "The Chinese University of Hong Kong, Shenzhen"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
