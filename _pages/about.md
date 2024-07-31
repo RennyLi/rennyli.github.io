@@ -64,7 +64,7 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/project2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">May 2024</div><img src='images/project3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Protein-protein interaction prediction using deep learning models**
