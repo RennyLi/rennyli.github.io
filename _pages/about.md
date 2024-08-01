@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Jingquan Li, but you can call me Renny if that's easier. I'm a fourth-year Computer Science undergraduate student at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498) in the [Human Language Technology Lab](https://sds.cuhk.edu.cn/en/article/588), focusing on auditory attention detection from EEG signals. Additionally, I am honored to be a member of the Medical Big Data Lab at [Shenzhen Research Institute of Big Data (SRIBD)](https://www.sribd.cn/en), where I work with [Prof. Xiang Wan](https://www.sribd.cn/en/teacher/28), exploring medical imaging with machine learning methods. Besides, I am also grateful to [Prof. Pengcheng An](https://scholar.google.com/citations?user=8NN-2uYAAAAJ&hl=en) and [Prof. Gang Cao](https://www.suat-sz.edu.cn/info/1166/1788.htm) for providing me with research opportunities in human-computer interaction and biomedical engineering using AI.
+Hello! I am Jingquan Li, but you can call me Renny if that's easier. I'm a fourth-year Computer Science undergraduate student at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498) in the [Human Language Technology Lab](https://sds.cuhk.edu.cn/en/article/588), focusing on auditory attention detection from EEG signals. Additionally, I am honored to be a member of the [Medical Big Data Lab](https://www.sribd.cn/en/znyy/medical) at [Shenzhen Research Institute of Big Data (SRIBD)](https://www.sribd.cn/en), where I work with [Prof. Xiang Wan](https://www.sribd.cn/en/teacher/28), exploring medical imaging with machine learning methods. Besides, I am also grateful to [Prof. Pengcheng An](https://scholar.google.com/citations?user=8NN-2uYAAAAJ&hl=en) and [Prof. Gang Cao](https://www.suat-sz.edu.cn/info/1166/1788.htm) for providing me with research opportunities in human-computer interaction and biomedical engineering using AI.
 
 My research interests are primarily in human-computer interaction and machine learning. To be specific, I am motivated by the following topics:
 - Natural language processing: Selective auditory attention detection based on EEG signals.
@@ -74,6 +74,21 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 - Construct Non-redundant Sequences: Use CD-HIT to select the longest sequence from each group with a 0.7 similarity threshold, reducing positive samples from 8602 to 3880 and negative samples from 8490 to 3844. This decreases data volume and saves computational resources.
 - Literature Review: Review studies using protein sequences or structures for predicting protein interactions. Summarize models, methods, datasets, and results, and explore protein feature embedding techniques for developing a PPI prediction model.
 - Model Testing and Analysis: Evaluate open-source PPI prediction models on public datasets (yeast, E. coli, human). Analyze, compare, and summarize the model predictions and results.
+</div>
+</div>
+
+# 📝 Academic projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jan 2022</div><img src='images/project4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Enhancing Recruitment Operations through Database Management**
+
+[The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), Supervised by [Prof. Clement Leung](https://sse.cuhk.edu.cn/en/faculty/clementleung)
+
+- Database Design and Creation: Created Entity-Relationship (E-R) diagrams to efficiently manage relationships between entities such as applicants, jobs, companies, and applications. Defined the SQL schema based on these diagrams to ensure data integrity and performance, followed by the creation of SQL tables and relations.
+- Front-end Development and Back-end Integration: Designed a user-friendly front-end interface using HTML and CSS, and enabled interaction between the website and the database using PHP. This facilitated user registration, information retrieval, and data updates.
+- Utilization of Large Language Models (LLMs): Employed LLMs like ChatGPT-4 to optimize database design, generate efficient SQL queries, and enhance the overall database structure.
 </div>
 </div>
 
