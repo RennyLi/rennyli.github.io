@@ -92,6 +92,19 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jan 2022</div><img src='images/project5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Bremen Big Data Challenge 2024**
+
+[Cognitive Systems Lab of Bremen University](https://www.uni-bremen.de/en/csl), Supervised by [Prof. Haizhou Li](https://www.uni-bremen.de/en/u-bremen-excellence-chairs/overview/prof-haizhou-li) 
+
+- Data preprocessing and visualization: Conducted thorough data preprocessing and visualization to clean and prepare the dataset for analysis, which involved handling missing values, normalizing data, and creating visual representations to understand data distributions and trends.
+- Convolutional Neural Network for context and affect prediction: Utilized Convolutional Neural Networks (CNNs) to capture complex patterns and relationships in the data.
+- Performance evaluation and accuracy: Evaluated the performance of the predictive models, achieving an accuracy of 49.74% (highest accuracy: 58.54%).
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
