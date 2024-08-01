@@ -92,7 +92,7 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jan 2022</div><img src='images/project5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Feb 2024</div><img src='images/project5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Bremen Big Data Challenge 2024**
@@ -104,6 +104,15 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 - Performance evaluation and accuracy: Evaluated the performance of the predictive models, achieving an accuracy of 49.74% (highest accuracy: 58.54%).
 </div>
 </div>
+
+# 💻 Internships
+**2022.07 - 2022.12, [Search Technology Center Asia (STCA), Microsoft]((https://www.microsoft.com/en-us/ard/aboutus/team-stca)), Beijing, China**
+
+User Growth Product Manager, Leader: Xinwei Nie(聂鑫伟)
+
+- Contribute to Bing plug-in development in CJK areas: Researched on search engine and browser homepage plug-ins that perform well in CN market. Collected and organized user operation processes. Collaborated with the extension team in crafting Bing extensions for the Chrome browser.
+- Research on input methods: Investigated in how mobile input methods like Baidu, Sogou, and Naver guide users to search engines and information flow pages. Evaluated Microsoft Swiftkey and propose improvement ideas. Generated a competitive product report.
+- Research on Bing translation plug-in: Investigated in four popular Chrome translation plug-ins (Google Translate, Saladict, LingoCloud, DeepL). Summarized their functions, and survey users to rank the frequency of using these functions. Drafted a PRD for the Bing plug-in.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -117,5 +126,4 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
