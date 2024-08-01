@@ -84,9 +84,7 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 
 **Enhancing Recruitment Operations through Database Management**
 
-[The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), Supervised by [Prof. Clement Leung](https://sse.cuhk.edu.cn/en/faculty/clementleung)
-
-[**GitHub**](https://github.com/RennyLi/Job-application-and-recruitment-platform-website-frontend)  [**PDF**](https://cuhko365-my.sharepoint.com/:b:/g/personal/119010148_link_cuhk_edu_cn/EUSEOy8I2QdMkH_7Qg8tmnwBqDchzg3aitFZB0saYX4IGw?e=zDRUet)
+[The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), Supervised by [Prof. Clement Leung](https://sse.cuhk.edu.cn/en/faculty/clementleung)  [**GitHub**](https://github.com/RennyLi/Job-application-and-recruitment-platform-website-frontend)  [**PDF**](https://cuhko365-my.sharepoint.com/:b:/g/personal/119010148_link_cuhk_edu_cn/EUSEOy8I2QdMkH_7Qg8tmnwBqDchzg3aitFZB0saYX4IGw?e=zDRUet)
 
 - Database Design and Creation: Created E-R diagrams to manage relationships between applicants, jobs, companies, and applications. Defined SQL schema and created tables to ensure data integrity and performance.
 - Front-end Development and Back-end Integration: Designed a user-friendly interface using HTML and CSS. Enabled website-database interaction via PHP for user registration, information retrieval, and updates.
