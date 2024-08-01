@@ -86,9 +86,11 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 
 [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), Supervised by [Prof. Clement Leung](https://sse.cuhk.edu.cn/en/faculty/clementleung)
 
-- Database Design and Creation: Created Entity-Relationship (E-R) diagrams to efficiently manage relationships between entities such as applicants, jobs, companies, and applications. Defined the SQL schema based on these diagrams to ensure data integrity and performance, followed by the creation of SQL tables and relations.
-- Front-end Development and Back-end Integration: Designed a user-friendly front-end interface using HTML and CSS, and enabled interaction between the website and the database using PHP. This facilitated user registration, information retrieval, and data updates.
-- Utilization of Large Language Models (LLMs): Employed LLMs like ChatGPT-4 to optimize database design, generate efficient SQL queries, and enhance the overall database structure.
+[**GitHub**](https://github.com/RennyLi/Job-application-and-recruitment-platform-website-frontend)  [**PDF**](https://cuhko365-my.sharepoint.com/:b:/g/personal/119010148_link_cuhk_edu_cn/EUSEOy8I2QdMkH_7Qg8tmnwBqDchzg3aitFZB0saYX4IGw?e=zDRUet)
+
+- Database Design and Creation: Created E-R diagrams to manage relationships between applicants, jobs, companies, and applications. Defined SQL schema and created tables to ensure data integrity and performance.
+- Front-end Development and Back-end Integration: Designed a user-friendly interface using HTML and CSS. Enabled website-database interaction via PHP for user registration, information retrieval, and updates.
+- Utilization of Large Language Models (LLMs): Used ChatGPT-4 to optimize database design and generate efficient SQL queries. Enhanced overall database structure with LLMs.
 </div>
 </div>
 
