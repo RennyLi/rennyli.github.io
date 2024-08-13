@@ -19,8 +19,8 @@ redirect_from:
 
 Hello! I am Jingquan Li, but you can call me Renny if that's easier. I'm a fourth-year Computer Science undergraduate student at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498) in the [Human Language Technology Lab](https://sds.cuhk.edu.cn/en/article/588), focusing on auditory attention detection from EEG signals. Additionally, I am honored to be a member of the [Medical Big Data Lab](https://www.sribd.cn/en/znyy/medical) at [Shenzhen Research Institute of Big Data (SRIBD)](https://www.sribd.cn/en), where I work with [Prof. Xiang Wan](https://www.sribd.cn/en/teacher/28), exploring medical imaging with machine learning methods. Besides, I am also grateful to [Prof. Pengcheng An](https://scholar.google.com/citations?user=8NN-2uYAAAAJ&hl=en) and [Prof. Gang Cao](https://www.suat-sz.edu.cn/info/1166/1788.htm) for providing me with research opportunities in human-computer interaction and biomedical engineering using AI.
 
-My research interests are primarily in human-computer interaction and machine learning. To be specific, I am motivated by the following topics:
-- Natural language processing: Selective auditory attention detection based on EEG signals.
+My research interests are primarily in human-computer interaction and auditory neuroscience. To be specific, I am motivated by the following topics:
+- Auditory neuroscience: Selective auditory attention detection based on EEG signals.
 - Human-Computer interaction：Focusing on human-AI interaction, generative AI, education, and therapeutic AI.
 - Machine learning in biomedical engineering: Integrating electronic medical records, medical imaging, health check reports and multi-omics data to aid pre-diagnosis and personalized treatment using machine learning technologies.
 
