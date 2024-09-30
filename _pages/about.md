@@ -137,22 +137,6 @@ Technical Product Manager, Leader: Xinwei Nie(聂鑫伟)
 - Search Interface Optimization: Optimized trending search interfaces for Bing and Windows. Proposed enhancements for SwiftKey using predictive modeling, improving UI and user experience.
 - Data-Driven Cross-Department Collaboration: Collaborated with the sports team to refine World Cup-related keywords, optimizing Bing search results using data analysis techniques to improve user experience and accuracy.
 
-<!--**2022.12 - 2023.6, [Feishu/Lark People, ByteDance](https://www.larksuite.com/en_us?from_site=feishu), Guangzhou, China**
-
-People Customer Operation, Leader: Yuxuan Guo(郭玉瑄)
-
-- Analyze high-frequency work order issues: Analyzed root causes of issues related to business operations and platform administration through collaboration across departments. Provided optimization ideas to enhance system stability and user satisfaction.
-- Initiate demand review discussions: Gathered 300+ customer feetback on Feishu Recruitment , and independently initiated discussions to clearly communicate with the R&D team. Assessed the necessity and feasibility of requirements and followed up on the implementation of 100+ features.
-- Develop usage documentation and training materials: Created comprehensive guides for payroll and HR back-end systems. Detailed functionalities and common troubleshooting strategies, in order to enhance users’ understanding and optimize their experience.
-
-**2022.03 - 2022.07, [Weixin Group, Tencent](https://www.tencent.com/en-us/), Guangzhou, China**
-
-Product Operation, Leader: Lin Lin(林琳)
-
-- Write requirements and communicate: Drafted design requirement documents for ”20:15” and ”Cloud Stage” activities. Communicated with marketing and PR departments as well as conducting user dissemination via the WeChat official account.
-- Analyze competitive products: Classified anchors from external sites based on rating standards and summarize popular topics. Conducted live broadcast competitive product analysis and summarized high-quality anchors. Developed content planning and operation ideas for internal activities.
-- Write activity documents: Analyzed anchor supply sources, live broadcast traffic distribution, and rebroadcast rate. Wrote a project document for “Everything has a lesson” in collaboration with the marketing department to assist in the recruitment of event anchors. -->
-
 # 🎖 Honors and Awards
 - *2024.03* 2024 Bremen Big Data Challenge Global Top 10 Ranking
 - *2022.12* 2022 Tencent Lighthouse Project Product Competition
