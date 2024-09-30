@@ -23,20 +23,20 @@ Additionally, I am working with [Prof. Pengcheng An](https://scholar.google.com/
 
 At [Shenzhen Research Institute of Big Data (SRIBD)](https://www.sribd.cn/en) under the supervision of [Prof. Xiang Wan](https://www.sribd.cn/en/teacher/28), I am involved in Multimodal Fusion and Data Augmentation for Neonatal Asphyxia Prediction.
 
-I also collaborated with [Prof. Gang Cao](https://www.suat-sz.edu.cn/info/1166/1788.htm) at the [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en/), working on Protein Interaction Prediction: Deep Learning Benchmarking and Visualization.
+I also collaborated with [Prof. Gang Cao](https://www.suat-sz.edu.cn/info/1166/1788.htm) at the [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en/), focusing on deep learning benchmarking and visualization for protein interaction prediction.
 
 Advancements in AI and neuroscience are unlocking new possibilities in how we understand human behavior and improve societal well-being. From enhancing everyday interactions through human-computer collaboration to addressing critical healthcare challenges with biomedical AI, these innovations are shaping the future of education, health, and communication. By leveraging these technologies thoughtfully, we can create more effective, accessible solutions for complex human-centered problems.
 
-My research focuses on integrating Human-AI Interaction and Auditory Neuroscience to improve well-being, education, and healthcare. To be specific, I am motivated by the following topics:
+Building on these ideas, my research focuses on integrating Human-AI Interaction and Auditory Neuroscience to improve well-being, education, and healthcare. To be specific, I am motivated by the following topics:
 - Human-AI Collaboration: Exploring Human-Computer Interaction (HCI) and Human-Centered Computing (HCC) to enhance collaboration in education and public health through AI-driven tools.
 - -Emotion and Auditory Processing: Using EEG and deep learning to decode emotions and auditory attention, with applications in Brain-Computer Interfaces (BCI) and communication aids.
 - Biomedical AI: Applying machine learning and bioinformatics for biomedical signal processing and medical imaging to advance diagnostics and healthcare.
 
-I am actively seeking Ph.D. positions starting in Fall 2025. If you are looking for a dedicated and self-motivated candidate, please feel free to contact me at jingquanli@link.cuhk.edu.cn.
+I am actively seeking Ph.D. positions starting in Fall 2025. If you are looking for a dedicated and self-motivated candidate, feel free to contact me at jingquanli@link.cuhk.edu.cn.
 
-Beyond my academic persuits, I am a passionate music enthusiast and a band drummer. I enjoy metalcore and fusion music, with Bring Me The Horizon and ONE OK ROCK being my favorite bands.
+Outside of my academic pursuits, I am a passionate music enthusiast and drummer, with a love for metalcore and fusion music—Bring Me The Horizon and ONE OK ROCK are among my favorite bands.
 
-Thank you for taking the time to learn about me. I look forward to connecting and exploring how we can collaborate to make a positive impact through technology and our shared passions!
+Thank you for taking the time to learn about me. I look forward to connecting and exploring how we can collaborate to make a positive impact through technology and shared passions.
 
 <!--
 # 🔥 News
