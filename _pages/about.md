@@ -38,11 +38,16 @@ Outside of my academic pursuits, I am a passionate music enthusiast and drummer,
 
 Thank you for taking the time to learn about me. I look forward to connecting and exploring how we can collaborate to make a positive impact through technology and shared passions.
 
-<!--
+
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
--->
+- *2024.09*: 🎉 Finalist in the ICSR 2024 Robot Design Competition. Presented PASIR, a multimodal emotion prediction robot using BCI-driven emotion models. 
+- *2024.05*: 🧠 Began work on Protein Interaction Prediction: Deep Learning Benchmarking and Visualization under Prof. Gang Cao at Shenzhen University of Advanced Technology.
+- *2024.05*: 🎓 Initiated research on Multimodal Fusion for Neonatal Asphyxia Prediction with Prof. Xiang Wan at the Shenzhen Research Institute of Big Data.
+- *2024.03*: 🌍 Ranked in the Global Top 10 in the 2024 Bremen Big Data Challenge.
+- *2024.02*: 🔍 Launched research on AIGC-Driven Approaches for Memory Assistance and Human-AI Interaction at Southern University of Science and Technology, working under Prof. Pengcheng An.
+- *2024.01*: 🎧 Started research on EEG Signal Processing and Deep Learning for Auditory Neuroscience under the supervision of Prof. Haizhou Li at The Chinese University of Hong Kong, Shenzhen.
+- *2022.07*: 💻 Completed an internship as a Technical Product Manager at Microsoft STCA, where I conducted competitor analysis and optimized Bing’s search interface, contributing to the SwiftKey product.
+- *2020.08*: 🎓 Awarded the Diligentia College Shanqun Scholarship at The Chinese University of Hong Kong, Shenzhen for academic excellence.
 
 # 📝 Research Experience
 
