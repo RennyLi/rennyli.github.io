@@ -59,13 +59,40 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 [Human Language Technology Lab](https://sds.cuhk.edu.cn/en/article/588), Supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498)
 
 - **Summary**: Conducted a comprehensive review on spatial sound source localization using EEG signals, summarizing key datasets and providing model baselines to aid future research.
-- **Methods \& Tools**: Collected and processed EEG datasets, including public and self-recorded scalp EEG data. Evaluated both foundational and deep learning methods such as CNN and attention-based models, achieving over 97% accuracy in decoding spatial sound positions.
+- **Methods and Tools**: Collected and processed EEG datasets, including public and self-recorded scalp EEG data. Evaluated both foundational and deep learning methods such as CNN and attention-based models, achieving over 97% accuracy in decoding spatial sound positions.
 - **Key Outcomes**: Established a thorough overview of the research progress in EEG-based sound source localization, providing benchmark results and offering insights into data preprocessing and model improvements for future studies.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/project2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+**Effect of Emotional Stimuli on Selective Auditory Attention**
+
+[Human Language Technology Lab](https://sds.cuhk.edu.cn/en/article/588), Supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498)
+
+- **Summary**: Designed an experiment to analyze how emotional stimuli influence selective auditory attention using EEG signals and deep learning models.
+- **Methods and Tools**: Conducted extensive literature review on emotional and auditory attention research, focusing on ERP markers (e.g., P300, LPP) and frequency band changes (e.g., Alpha, Theta). Collected Chinese emotional auditory datasets and explored deep learning models for EEG data analysis.
+- **Key Outcomes**: Established a theoretical framework for the relationship between emotional stimuli and auditory attention, identifying key variables and neural indicators for future experiments, providing a solid foundation for subsequent research and analysis.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/project2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**EEG-based Music Emotion Recognition for ICASSP 2025 Challenge**
+
+[Human Language Technology Lab](https://sds.cuhk.edu.cn/en/article/588), Supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498)
+
+- **Summary**: Participated in the ICASSP 2025 challenge to classify emotions using EEG signals during music listening.
+- **Methods and Tools**: Applied standard EEG preprocessing (noise reduction, normalization) and explored deep learning models like EEGNet and CNNs. Adjusted training with 1000 epochs and learning rate decay to improve stability.
+- **Key Outcomes**: Achieved 99.6% accuracy in subject identification, but only 26.2% in emotion recognition, highlighting the need for revising the training paradigm and exploring contrastive learning for improvement in this task.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/project2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 
 **AI-Assisted Fetal Heart Monitoring**
 
