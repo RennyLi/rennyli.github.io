@@ -50,11 +50,11 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 - *2020.08*: 🎓 Awarded the Diligentia College Shanqun Scholarship at The Chinese University of Hong Kong, Shenzhen for academic excellence.
 
 # 📜 WORKING PAPERS AND ACADEMIC PRESENTATIONS
-- **J. Li**, S. Wang, S. Cai, X. Zhang, H. Li (2024). Brain Signal-Based Auditory Spatial Attention Detection: Evolution from Linear to Non-Linear Models. *(Manuscript Under revision)*
-- **J. Li**, M. Li, C. Liang, P. An (2024). MemoryAI: An AIGC-powered pipeline for enhancing user memory with associative techniques and dynamic visuals. *(Manuscript in preparation)*
-- **J. Li**, X. Cao, F. Meng, Y. Zou, G. Cao (2024). Deep Learning-Based Prediction of Protein-Protein Interactions on Short Protein Datasets. *(Manuscript in preparation)*
-- **J. Li**, K. Chen, Q. Shi, X. Wan (2024). A Multimodal Fusion Framework for Neonatal Asphyxia Classification Using FHR Time-Series and Clinical Data with Data Augmentation via Diffusion Models. *(In Model Development)*
-- **J. Li**, X. Cao (2024). PASIR: A Proactive Social Interaction Robot Empowered by Multimodal Data Fusion and BCI-Driven Emotion Prediction Models. *International Conference on Social Robotics (ICSR)*. *(Oral presentation)*
+- <u>**J. Li**</u>, S. Wang, S. Cai, X. Zhang, H. Li (2024). Brain Signal-Based Auditory Spatial Attention Detection: Evolution from Linear to Non-Linear Models. *(Manuscript Under revision)*
+- <u>**J. Li**</u>, M. Li, C. Liang, P. An (2024). MemoryAI: An AIGC-powered pipeline for enhancing user memory with associative techniques and dynamic visuals. *(Manuscript in preparation)*
+- <u>**J. Li**</u>, X. Cao, F. Meng, Y. Zou, G. Cao (2024). Deep Learning-Based Prediction of Protein-Protein Interactions on Short Protein Datasets. *(Manuscript in preparation)*
+- <u>**J. Li**</u>, K. Chen, Q. Shi, X. Wan (2024). A Multimodal Fusion Framework for Neonatal Asphyxia Classification Using FHR Time-Series and Clinical Data with Data Augmentation via Diffusion Models. *(In Model Development)*
+- <u>**J. Li**</u>, X. Cao (2024). PASIR: A Proactive Social Interaction Robot Empowered by Multimodal Data Fusion and BCI-Driven Emotion Prediction Models. *International Conference on Social Robotics (ICSR)*. *(Oral presentation)*
 
 
 # 📝 Research Experience
