@@ -109,6 +109,7 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 - **Methods and Tools**: Applied tools like LumaAI, RunwayGen-2, and GPT for memory cue generation. Used statistical analysis (ANOVA, correlation) to assess effectiveness, combined with user feedback to refine the process.
 - **Key Outcomes**: Achieved moderate success in reducing memory difficulty, providing actionable insights for future AIGC applications in memory enhancement.
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/project2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -121,10 +122,10 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 - **Methods and Tools**: Applied interpolation techniques and diffusion models for data augmentation. Currently reproducing the PE-MVCNET model for multimodal fusion of time-series and tabular data.
 - **Key Outcomes**: Generated a high-quality dataset with 482 positive control samples and 1500 normal control samples. Applied advanced signal processing and data augmentation techniques to address imbalanced data issues. Ongoing work aims to validate the multimodal model on public datasets before applying it to private data.
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/project2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 
 **Protein Interaction Prediction: Deep Learning Benchmarking and Visualization**
 
