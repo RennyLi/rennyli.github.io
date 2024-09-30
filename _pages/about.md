@@ -85,7 +85,7 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/eegmusicpng' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/eegmusic.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **EEG-based Music Emotion Recognition for ICASSP 2025 Challenge**
