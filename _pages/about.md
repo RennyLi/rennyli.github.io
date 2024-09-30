@@ -58,9 +58,9 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 
 [Human Language Technology Lab](https://sds.cuhk.edu.cn/en/article/588), Supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498)
 
-- Summary: Conducted a comprehensive review on spatial sound source localization using EEG signals, summarizing key datasets and providing model baselines to aid future research.
-- Methods & Tools: Collected and processed EEG datasets, including public and self-recorded scalp EEG data. Evaluated both foundational and deep learning methods such as CNN and attention-based models, achieving over 97% accuracy in decoding spatial sound positions.
-- Key Outcomes: Established a thorough overview of the research progress in EEG-based sound source localization, providing benchmark results and offering insights into data preprocessing and model improvements for future studies.
+- **Summary**: Conducted a comprehensive review on spatial sound source localization using EEG signals, summarizing key datasets and providing model baselines to aid future research.
+- **Methods \& Tools**: Collected and processed EEG datasets, including public and self-recorded scalp EEG data. Evaluated both foundational and deep learning methods such as CNN and attention-based models, achieving over 97% accuracy in decoding spatial sound positions.
+- **Key Outcomes**: Established a thorough overview of the research progress in EEG-based sound source localization, providing benchmark results and offering insights into data preprocessing and model improvements for future studies.
 </div>
 </div>
 
