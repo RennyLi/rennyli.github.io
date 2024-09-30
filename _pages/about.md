@@ -111,7 +111,7 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/project2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/hci.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AIGC-Driven Approaches for Memory Assistance and Human-AI Interaction**
@@ -124,7 +124,7 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/project2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/fmri.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Multimodal Fusion and Data Augmentation for Neonatal Asphyxia Prediction**
@@ -137,7 +137,7 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/project2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/ppi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Protein Interaction Prediction: Deep Learning Benchmarking and Visualization**
