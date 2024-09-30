@@ -49,7 +49,7 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 - *2022.07*: 💻 Completed an internship as a Technical Product Manager at Microsoft STCA, where I conducted competitor analysis and optimized Bing’s search interface, contributing to the SwiftKey product.
 - *2020.08*: 🎓 Awarded the Diligentia College Shanqun Scholarship at The Chinese University of Hong Kong, Shenzhen for academic excellence.
 
-# 📜 WORKING PAPERS AND ACADEMIC PRESENTATIONS
+# 📜 Working Papers and Academic Presentations
 - <u>J. Li</u>, S. Wang, S. Cai, X. Zhang, H. Li (2024). Brain Signal-Based Auditory Spatial Attention Detection: Evolution from Linear to Non-Linear Models. *(Manuscript Under revision)*
 - <u>J. Li</u>, M. Li, C. Liang, P. An (2024). MemoryAI: An AIGC-powered pipeline for enhancing user memory with associative techniques and dynamic visuals. *(Manuscript in preparation)*
 - <u>J. Li</u>, X. Cao, F. Meng, Y. Zou, G. Cao (2024). Deep Learning-Based Prediction of Protein-Protein Interactions on Short Protein Datasets. *(Manuscript in preparation)*
