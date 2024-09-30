@@ -59,7 +59,7 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 
 # 📝 Research Experience
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mar 2024</div><img src='images/project1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Jan 2024</div><img src='images/project1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Spatial Sound Source Localization using EEG Signals**
@@ -72,7 +72,7 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/emotion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sep 2024</div><img src='images/emotion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Effect of Emotional Stimuli on Selective Auditory Attention**
@@ -85,7 +85,7 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/eegmusic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sep 2024</div><img src='images/eegmusic.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **EEG-based Music Emotion Recognition for ICASSP 2025 Challenge**
@@ -98,7 +98,7 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/visualization.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">May 2024</div><img src='images/visualization.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **EEG Electrode Localization and Visualization with Freesurfer**
@@ -111,7 +111,7 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/hci.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Feb 2024</div><img src='images/hci.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AIGC-Driven Approaches for Memory Assistance and Human-AI Interaction**
@@ -124,7 +124,7 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/fmri.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">May 2024</div><img src='images/fmri.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Multimodal Fusion and Data Augmentation for Neonatal Asphyxia Prediction**
@@ -137,7 +137,7 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/ppi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">May 2024</div><img src='images/ppi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Protein Interaction Prediction: Deep Learning Benchmarking and Visualization**
@@ -160,18 +160,17 @@ Technical Product Manager, Leader: Xinwei Nie(聂鑫伟)
 - Data-Driven Cross-Department Collaboration: Collaborated with the sports team to refine World Cup-related keywords, optimizing Bing search results using data analysis techniques to improve user experience and accuracy.
 
 # 🎖 Honors and Awards
+- *2024.09* 2024 ICSR Robot Design Competition Finalist (4th place)
 - *2024.03* 2024 Bremen Big Data Challenge Global Top 10 Ranking
-- *2022.12* 2022 Tencent Lighthouse Project Product Competition
 - *2021.10* 2021 Honorable Award of National Undergraduate Mathematical Modeling Competition
 - *2020.08* 2020 Chinese University of Hong Kong, Shenzhen Diligentia College Shanqun Scholarship
 
 # 📖 Educations
 - *2019.09 - 2025.05 (Expected)*, B.Eng. Candidate, School of Data Science, The Chinese Uiversity of Hong Kong, Shenzhen
-- *Related Courses*, Machine Learning, Software Engineering, Database Systems, General Biology, General Chemistry, Mechanics, Probability and Statistics, Linear Algebra, Digital Logic and Systems
+- *Related Courses*: Computational Laboratory, Machine Learning, Digital Logic and Systems, Database System, Linear Algebra, Calculus, Programming Methodology, Probability and Statistics, Discrete Mathematics, Data Structures, General Biology, Software Engineering, Computer Networks
 
 # 💬 Additionals
-- *Languages*: TOEFL: 94 (Speaking: 23, Writing: 25)
-- *Programming Languages*: Python, Matlab, Latex, Markdown
-- *Libraries and Tools*: PyTorch, Sklearn, Pandas, Numpy, Git, TensorFlow
-- *Other skills*: Web Dev, quantitative and qualitative data analysis, interfae design (Figma), fine-tuning
+- *Standard Tests*: TOEFL: 94 (Speaking: 23, Writing: 25), GRE: 319 (Verbal: 149, Quant: 170, Writing: 3.5)
+- *Programming*: Python, Linux, Matlab, LaTeX, Markdown, PyTorch, SQL, Sklearn, Pandas, Numpy, Git, Tensorflow
+- *Other Skills*: Prompt engineering, Web Dev, quantitative and qualitative data analysis, Interface design (Figma)
 
