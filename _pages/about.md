@@ -17,14 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Jingquan Li, but you can call me Renny if that's easier. I'm a fourth-year Computer Science undergraduate student at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498) in the [Human Language Technology Lab](https://sds.cuhk.edu.cn/en/article/588), focusing on auditory attention detection from EEG signals. Additionally, I am honored to be a member of the [Medical Big Data Lab](https://www.sribd.cn/en/znyy/medical) at [Shenzhen Research Institute of Big Data (SRIBD)](https://www.sribd.cn/en), where I work with [Prof. Xiang Wan](https://www.sribd.cn/en/teacher/28), exploring medical imaging with machine learning methods. Besides, I am also grateful to [Prof. Pengcheng An](https://scholar.google.com/citations?user=8NN-2uYAAAAJ&hl=en) and [Prof. Gang Cao](https://www.suat-sz.edu.cn/info/1166/1788.htm) for providing me with research opportunities in human-computer interaction and biomedical engineering using AI.
+Hello! I am Jingquan Li, but you can call me Renny if that's easier. I'm a fourth-year Computer Science undergraduate student at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498) in the [Human Language Technology Lab](https://sds.cuhk.edu.cn/en/article/588), focusing on EEG Signal Processing and Deep Learning for Auditory Neuroscience. 
 
-My research interests are primarily in human-computer interaction and auditory neuroscience. To be specific, I am motivated by the following topics:
-- Auditory neuroscience: Selective auditory attention detection based on EEG signals.
-- Human-Computer interaction：Focusing on human-AI interaction, generative AI, education, and therapeutic AI.
-- Machine learning in biomedical engineering: Integrating electronic medical records, medical imaging, health check reports and multi-omics data to aid pre-diagnosis and personalized treatment using machine learning technologies.
+Additionally, I am working with [Prof. Pengcheng An](https://scholar.google.com/citations?user=8NN-2uYAAAAJ&hl=en) at the [AI-Deal Studio Lab](https://anpengcheng.cn/) of [SUSTech](https://www.sustech.edu.cn/en/), where I led a project on AIGC-Driven Approaches for Memory Assistance and Human-AI Interaction.
 
-I am actively seeking Ph.D. positions starting in Fall 2025. If you are looking for a dedicated and motivated candidate, please feel free to contact me at jingquanli@link.cuhk.edu.cn.
+At [Shenzhen Research Institute of Big Data (SRIBD)](https://www.sribd.cn/en) under the supervision of [Prof. Xiang Wan](https://www.sribd.cn/en/teacher/28), I am involved in Multimodal Fusion and Data Augmentation for Neonatal Asphyxia Prediction.
+
+I also collaborated with [Prof. Gang Cao](https://www.suat-sz.edu.cn/info/1166/1788.htm) at the [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en/), working on Protein Interaction Prediction: Deep Learning Benchmarking and Visualization.
+
+Advancements in AI and neuroscience are unlocking new possibilities in how we understand human behavior and improve societal well-being. From enhancing everyday interactions through human-computer collaboration to addressing critical healthcare challenges with biomedical AI, these innovations are shaping the future of education, health, and communication. By leveraging these technologies thoughtfully, we can create more effective, accessible solutions for complex human-centered problems.
+
+My research focuses on integrating Human-AI Interaction and Auditory Neuroscience to improve well-being, education, and healthcare. To be specific, I am motivated by the following topics:
+- Human-AI Collaboration: Exploring Human-Computer Interaction (HCI) and Human-Centered Computing (HCC) to enhance collaboration in education and public health through AI-driven tools.
+- -Emotion and Auditory Processing: Using EEG and deep learning to decode emotions and auditory attention, with applications in Brain-Computer Interfaces (BCI) and communication aids.
+- Biomedical AI: Applying machine learning and bioinformatics for biomedical signal processing and medical imaging to advance diagnostics and healthcare.
+
+I am actively seeking Ph.D. positions starting in Fall 2025. If you are looking for a dedicated and self-motivated candidate, please feel free to contact me at jingquanli@link.cuhk.edu.cn.
 
 Beyond my academic persuits, I am a passionate music enthusiast and a band drummer. I enjoy metalcore and fusion music, with Bring Me The Horizon and ONE OK ROCK being my favorite bands.
 
