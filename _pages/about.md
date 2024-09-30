@@ -29,7 +29,7 @@ Advancements in AI and neuroscience are unlocking new possibilities in how we un
 
 Building on these ideas, my research focuses on integrating Human-AI Interaction and Auditory Neuroscience to improve well-being, education, and healthcare. To be specific, I am motivated by the following topics:
 - Human-AI Collaboration: Exploring Human-Computer Interaction (HCI) and Human-Centered Computing (HCC) to enhance collaboration in education and public health through AI-driven tools.
-- -Emotion and Auditory Processing: Using EEG and deep learning to decode emotions and auditory attention, with applications in Brain-Computer Interfaces (BCI) and communication aids.
+- Emotion and Auditory Processing: Using EEG and deep learning to decode emotions and auditory attention, with applications in Brain-Computer Interfaces (BCI) and communication aids.
 - Biomedical AI: Applying machine learning and bioinformatics for biomedical signal processing and medical imaging to advance diagnostics and healthcare.
 
 I am actively seeking Ph.D. positions starting in Fall 2025. If you are looking for a dedicated and self-motivated candidate, feel free to contact me at jingquanli@link.cuhk.edu.cn.
@@ -54,13 +54,13 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mar 2024</div><img src='images/project1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Auditory attention detection based on EEG signals**
+**Spatial Sound Source Localization using EEG Signals**
 
 [Human Language Technology Lab](https://sds.cuhk.edu.cn/en/article/588), Supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498)
 
-- Literature Review and Data Foundation: Integrate and compare EEG decoding studies from the past decade, focusing on spatial localization, to establish a solid, data-driven foundation for future research.
-- Data Collection and Preprocessing: Use cEEGrid devices for high-quality ear-EEG signal collection and preprocess public EEG datasets by removing artifacts and downsampling to enhance data quality for model training.
-- Model Training and Visualization: Apply various deep learning models (attention-based, CNN-based, RNN-based, ML-based) on public datasets to predict attention direction and trajectory, and use visual tools to present experimental processes and findings clearly.
+- Summary: Conducted a comprehensive review on spatial sound source localization using EEG signals, summarizing key datasets and providing model baselines to aid future research.
+- Methods & Tools: Collected and processed EEG datasets, including public and self-recorded scalp EEG data. Evaluated both foundational and deep learning methods such as CNN and attention-based models, achieving over 97% accuracy in decoding spatial sound positions.
+- Key Outcomes: Established a thorough overview of the research progress in EEG-based sound source localization, providing benchmark results and offering insights into data preprocessing and model improvements for future studies.
 </div>
 </div>
 
