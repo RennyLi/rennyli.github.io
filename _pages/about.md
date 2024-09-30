@@ -72,7 +72,7 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/project2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/emotion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Effect of Emotional Stimuli on Selective Auditory Attention**
@@ -85,7 +85,7 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/headshot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/eegmusicpng' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **EEG-based Music Emotion Recognition for ICASSP 2025 Challenge**
@@ -95,6 +95,19 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 - **Summary**: Participated in the ICASSP 2025 challenge to classify emotions using EEG signals during music listening.
 - **Methods and Tools**: Applied standard EEG preprocessing (noise reduction, normalization) and explored deep learning models like EEGNet and CNNs. Adjusted training with 1000 epochs and learning rate decay to improve stability.
 - **Key Outcomes**: Achieved 99.6% accuracy in subject identification, but only 26.2% in emotion recognition, highlighting the need for revising the training paradigm and exploring contrastive learning for improvement in this task.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">July 2024</div><img src='images/visualization.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**EEG Electrode Localization and Visualization with Freesurfer**
+
+[Human Language Technology Lab](https://sds.cuhk.edu.cn/en/article/588), Supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498)
+
+- **Summary**: Conducted EEG electrode localization by integrating MRI and CT data, using Freesurfer and img_pipe for 3D visualization.
+- **Methods and Tools**: Resolved Freesurfer license issues and reprocessed MRI/CT data using dcm2niix. Faced challenges with recon-all and GTK libraries, partially addressed using MATLAB’s LeGUI, though with suboptimal results.
+- **Key Outcomes**: Generated sample brain visualizations and gained valuable experience in configuring MRI/CT processing tools, with ongoing troubleshooting for further improvements.
 </div>
 </div>
 
