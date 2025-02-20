@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jingquan Li's Personal Website"
-description              : "Research interests: Human-Centered Interaction and Collaboration, Neuroscience-Informed Auditory Processing, AI in Biomedical Research and Healthcare"
+description              : "Research interests: Brain-Computer Interface, Human-Computer Interaction, Artificial Intelligence"
 repository               : "RennyLi/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : jingquan-li-2536702b9/
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : https://orcid.org/0009-0000-5516-9709
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
