@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Jingquan Li, but you can call me Renny if that's easier. I'm a fourth-year Computer Science undergraduate student at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498) in the [Human Language Technology Lab](https://sds.cuhk.edu.cn/en/article/588), focusing on EEG Signal Processing and Deep Learning for Auditory Neuroscience. 
+Hello! I am Jingquan Li, but you can call me Renny if that's easier. I'm a fourth-year Computer Science undergraduate student at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498) in the [Cross-modal Cognitive Computing (C3) Lab](https://sds.cuhk.edu.cn/en/page/1818), focusing on EEG Signal Processing and Deep Learning for Auditory Neuroscience. 
 
-Additionally, I am working with [Prof. Pengcheng An](https://scholar.google.com/citations?user=8NN-2uYAAAAJ&hl=en) at the [AI-Deal Studio Lab](https://anpengcheng.cn/) of [SUSTech](https://www.sustech.edu.cn/en/), where I led a project on AIGC-Driven Approaches for Memory Assistance and Human-AI Interaction.
+Additionally, I am working with [Prof. Xiang Wan](https://www.sribd.cn/en/teacher/28) at [Shenzhen Research Institute of Big Data (SRIBD)](https://www.sribd.cn/en), where I led a project on Multimodal Fusion and Data Augmentation for Neonatal Asphyxia Prediction.
 
-At [Shenzhen Research Institute of Big Data (SRIBD)](https://www.sribd.cn/en) under the supervision of [Prof. Xiang Wan](https://www.sribd.cn/en/teacher/28), I am involved in Multimodal Fusion and Data Augmentation for Neonatal Asphyxia Prediction.
+At the [AI-Deal Studio Lab](https://anpengcheng.cn/) of [SUSTech](https://www.sustech.edu.cn/en/) under the supervision of [Prof. Pengcheng An](https://scholar.google.com/citations?user=8NN-2uYAAAAJ&hl=en), I am involved in AIGC-Driven Approaches for Memory Assistance and Human-AI Interaction.
 
-I also collaborated with [Prof. Gang Cao](https://www.suat-sz.edu.cn/info/1166/1788.htm) at the [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en/), focusing on deep learning benchmarking and visualization for protein interaction prediction.
+I also collaborated with [Prof. Gang Cao](https://www.suat-sz.edu.cn/info/1166/1788.htm) at the [Shenzhen University of Advanced Technology](https://suat-sz.edu.cn/en/), focusing on deep learning benchmarking for protein-protein interaction prediction.
 
 Advancements in AI and neuroscience are unlocking new possibilities in how we understand human behavior and improve societal well-being. From enhancing everyday interactions through human-computer collaboration to addressing critical healthcare challenges with biomedical AI, these innovations are shaping the future of education, health, and communication. By leveraging these technologies thoughtfully, we can create more effective, accessible solutions for complex human-centered problems.
 
@@ -34,12 +34,14 @@ Building on these ideas, my research focuses on integrating Human-AI Interaction
 
 I am actively seeking Ph.D. positions starting in Fall 2025. If you are looking for a dedicated and self-motivated candidate, feel free to contact me at jingquanli@link.cuhk.edu.cn.
 
-Outside of my academic pursuits, I am a passionate music enthusiast and drummer, with a love for metalcore and fusion music—Bring Me The Horizon and ONE OK ROCK are among my favorite bands.
+Outside of my academic pursuits, I am a passionate music enthusiast and drummer, with a love for metalcore and fusion music—[Bring Me The Horizon](https://www.bmthofficial.com/) and [toe](https://www.toe.st/) are among my favorite bands.
 
 Thank you for taking the time to learn about me. I look forward to connecting and exploring how we can collaborate to make a positive impact through technology and shared passions.
 
 
 # 🔥 News
+- *2024.12*: 🏆 Awarded the 2024 Undergraduate Research Award for the project "Dissecting Emotional and Semantic Entropy: A Study on Their Influence in Selective Auditory Attention" at The Chinese University of Hong Kong, Shenzhen.
+- *2024.11*: 🥇 Ranked 4th in the 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) EEG Music Classification Challenge.
 - *2024.09*: 🎉 Finalist in the ICSR 2024 Robot Design Competition. Presented PASIR, a multimodal emotion prediction robot using BCI-driven emotion models. 
 - *2024.05*: 🧠 Began work on Protein Interaction Prediction: Deep Learning Benchmarking and Visualization under Prof. Gang Cao at Shenzhen University of Advanced Technology.
 - *2024.05*: 🎓 Initiated research on Multimodal Fusion for Neonatal Asphyxia Prediction with Prof. Xiang Wan at the Shenzhen Research Institute of Big Data.
@@ -51,9 +53,9 @@ Thank you for taking the time to learn about me. I look forward to connecting an
 
 # 📜 Working Papers and Academic Presentations
 - <u>J. Li</u>, S. Wang, S. Cai, X. Zhang, H. Li (2024). Brain Signal-Based Auditory Spatial Attention Detection: Evolution from Linear to Non-Linear Models. *(Manuscript Under revision)*
-- <u>J. Li</u>, M. Li, C. Liang, P. An (2024). MemoryAI: An AIGC-powered pipeline for enhancing user memory with associative techniques and dynamic visuals. *(Manuscript in preparation)*
-- <u>J. Li</u>, X. Cao, F. Meng, Y. Zou, G. Cao (2024). Deep Learning-Based Prediction of Protein-Protein Interactions on Short Protein Datasets. *(Manuscript in preparation)*
-- <u>J. Li</u>, K. Chen, Q. Shi, X. Wan (2024). A Multimodal Fusion Framework for Neonatal Asphyxia Classification Using FHR Time-Series and Clinical Data with Data Augmentation via Diffusion Models. *(In Model Development)*
+- <u>J. Li</u>, M. Li, C. Liang, P. An (2024). MemoryAI: An AIGC-powered pipeline for enhancing user memory with associative techniques and dynamic visuals. *(Working Paper)*
+- X. Cao, <u>J. Li</u>, F. Meng, Y. Zou, G. Cao (2024). Deep Learning-Based Prediction of Protein-Protein Interactions on Short Protein Datasets. *(Working Paper)*
+- <u>J. Li</u>, K. Chen, Q. Shi, X. Wan (2024). A Multimodal Fusion Framework for Neonatal Asphyxia Classification Using FHR Time-Series and Clinical Data with Data Augmentation via Diffusion Models. *(Working Paper)*
 - <u>J. Li</u>, X. Cao (2024). PASIR: A Proactive Social Interaction Robot Empowered by Multimodal Data Fusion and BCI-Driven Emotion Prediction Models. *International Conference on Social Robotics (ICSR)*. *(Oral presentation)*
 
 
@@ -159,11 +161,13 @@ Technical Product Manager, Leader: Xinwei Nie(聂鑫伟)
 - Search Interface Optimization: Optimized trending search interfaces for Bing and Windows. Proposed enhancements for SwiftKey using predictive modeling, improving UI and user experience.
 - Data-Driven Cross-Department Collaboration: Collaborated with the sports team to refine World Cup-related keywords, optimizing Bing search results using data analysis techniques to improve user experience and accuracy.
 
+<!--
 # 🎖 Honors and Awards
 - *2024.09* 2024 ICSR Robot Design Competition Finalist (4th place)
 - *2024.03* 2024 Bremen Big Data Challenge Global Top 10 Ranking
 - *2021.10* 2021 Honorable Award of National Undergraduate Mathematical Modeling Competition
 - *2020.08* 2020 Chinese University of Hong Kong, Shenzhen Diligentia College Shanqun Scholarship
+-->
 
 # 📖 Educations
 - *2019.09 - 2025.05 (Expected)*, B.Eng. Candidate, School of Data Science, The Chinese Uiversity of Hong Kong, Shenzhen
