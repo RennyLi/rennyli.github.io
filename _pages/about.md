@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello! I am Jingquan Li, but you can call me Renny if that's easier. I'm a fourth-year Computer Science undergraduate student at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498) in the [Cross-modal Cognitive Computing (C3) Lab](https://sds.cuhk.edu.cn/en/page/1818), focusing on EEG Signal Processing and Deep Learning for Auditory Neuroscience. 
+Hello! I am Jingquan Li, but you can call me Renny if that's easier. You can also click [here](https://www.name-coach.com/jingquan-li) to see how to pronounce my name. I'm a fourth-year Computer Science undergraduate student at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), supervised by [Prof. Haizhou Li](https://sds.cuhk.edu.cn/en/teacher/498) in the [Cross-modal Cognitive Computing (C3) Lab](https://sds.cuhk.edu.cn/en/page/1818), focusing on EEG Signal Processing and Deep Learning for Auditory Neuroscience. 
 
 Additionally, I am working with [Prof. Xiang Wan](https://www.sribd.cn/en/teacher/28) at [Shenzhen Research Institute of Big Data (SRIBD)](https://www.sribd.cn/en), where I led a project on Multimodal Fusion and Data Augmentation for Neonatal Asphyxia Prediction.
 
