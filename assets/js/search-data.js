@@ -440,16 +440,17 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-awarded-the-diligentia-college-shanqun-scholarship-at-cuhk-shenzhen-for-academic-excellence-a-small-but-solid-milestone-early-in-the-journey",
+          title: 'Awarded the Diligentia College Shanqun Scholarship at CUHK-Shenzhen for academic excellence — a...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-assistant-product-manager-intern-at-tencent-cloud-led-major-upgrades-for-web-solutions-and-helped-shape-a-more-seo-friendly-ecosystem",
+          title: 'Assistant Product Manager Intern at Tencent Cloud — led major upgrades for web...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-technical-product-manager-intern-at-microsoft-stca-contributed-to-bing-and-swiftkey-through-ui-optimization-and-competitor-analysis",
+          title: 'Technical Product Manager Intern at Microsoft STCA — contributed to Bing and SwiftKey...',
+          description: "",
+          section: "News",},{id: "news-product-manager-intern-at-bytedance-people-navigated-product-chaos-user-feedback-storms-and-cross-team-rituals-to-improve-hr-systems",
+          title: 'Product Manager Intern at ByteDance People — navigated product chaos, user feedback storms,...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
