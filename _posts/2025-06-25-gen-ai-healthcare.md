@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflections on Generative AI in Healthcare: A River, Not a Lake
-date: 2025-06-25 21:30:00 +0800
+date: 2025-06-24 21:30:00 +0800
 description: Thoughts on Stanford’s AI in Healthcare series and the complex promise of human-centered intelligence in medical applications.
 tags: AI healthcare human-centered
 categories: reflections
