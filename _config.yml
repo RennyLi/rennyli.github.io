@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Jingquan's blog # blog_name will be displayed in your blog page
-blog_description: Reflections on learning, research, and life as a PhD student in EECS @ UC Merced
+blog_description: Reflections on learning, research, and life
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
