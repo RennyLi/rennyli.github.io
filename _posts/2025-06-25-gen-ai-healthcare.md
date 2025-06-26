@@ -17,7 +17,7 @@ Today I watched the first episode of Stanford Online’s new seminar series on A
 
 As someone who has long been fascinated by the promise of AI in psychological support, patient education, and human-machine interaction, I came into this video expecting technical insights. Instead, what I found was a deeper conversation: about trust, responsibility, and the human dimensions that technology can’t (and shouldn’t) replace.
 
-## What I Used to Think: The Promise of AI in Healthcare
+### What I Used to Think: The Promise of AI in Healthcare
 
 Before watching this video, I already believed that generative AI could play a major role in healthcare. For example, I had read research on AI chatbots used in mental health scenarios — offering patients conversational comfort and basic coping guidance. I also saw firsthand how my father, who is currently undergoing chemotherapy, uses tools like DeepSeek or ChatGPT to understand complex medical reports, drug instructions, and treatment options. These tools help demystify medical jargon in ways that feel empowering.
 
@@ -25,7 +25,7 @@ To me, this is what makes healthcare such a meaningful domain for AI — because
 
 Still, I had concerns. ChatGPT and similar tools are not always reliable. They hallucinate. They make things up. I wasn’t sure how we could reconcile this unreliability with the life-and-death nature of medicine.
 
-## Why Can’t Doctors Use It Freely?
+### Why Can’t Doctors Use It Freely?
 
 The host Justin Norden raised a great question in the slides: why are so many healthcare professionals restricted from using AI tools? He called it a “weird phenomenon,” and I agree. It seems paradoxical — we have powerful tools, but the people who might benefit most can’t touch them.
 
@@ -37,7 +37,7 @@ In my view, there are two main reasons for this:
 
 So despite all the excitement, practical deployment lags far behind.
 
-## Ferrari in Traffic? Where Gen AI Helps — and Where It Can’t
+### Ferrari in Traffic? Where Gen AI Helps — and Where It Can’t
 
 > *“You could put a Ferrari in rush hour traffic on the 101… but would it get you there faster?”*
 > *— Troy Tazbaz*
@@ -52,7 +52,7 @@ But no matter how good AI gets, **there are things it can’t do.** It doesn’t
 
 Maybe it’s because AI is still a tool. And when it really matters, we trust humans more.
 
-## Toward Human-Centered Intelligence
+### Toward Human-Centered Intelligence
 
 If generative AI is a river — constantly changing, constantly moving — how do we safely navigate it?
 
