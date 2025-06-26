@@ -1,20 +1,19 @@
 ---
 layout: post
 title: Reflections on Generative AI in Healthcare
-date: 2025-06-24 21:30:00 +0800
+date: 2025-06-25 21:30:00 +0800
 description: Thoughts on Stanford’s AI in Healthcare series and the complex promise of human-centered intelligence in medical applications.
 tags: AI healthcare human-centered
-categories: reflections
-giscus_comments: true
+categories: learning-journal
+giscus_comments: false
 related_posts: false
 toc:
   sidebar: left
 ---
 
 > *“It’s more like a river than a lake.”*  
-> — *Troy Tazbaz, Former Head of Digital Health at the FDA*
 
-I recently watched the first episode of Stanford Online’s new series on *AI in Healthcare*, where Troy Tazbaz, former head of digital health at the FDA, delivered a talk that left me reflecting on the complex — and often contradictory — reality of generative AI in medicine.
+Today I watched the first episode of Stanford Online’s new seminar series on AI in Healthcare. The session featured a thought-provoking discussion among multiple speakers, including Troy Tazbaz, former head of digital health at the FDA, who joined as a guest speaker. The conversation left me reflecting on the complex — and often contradictory — reality of generative AI in medicine.
 
 As someone who has long been fascinated by the promise of AI in psychological support, patient education, and human-machine interaction, I came into this video expecting technical insights. Instead, what I found was a deeper conversation: about trust, responsibility, and the human dimensions that technology can’t (and shouldn’t) replace.
 
