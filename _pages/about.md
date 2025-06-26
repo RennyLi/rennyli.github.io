@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of California, Merced. Electrical Engineering & Computer Science. PhD Student.
+subtitle: Ph.D. Student in EECS, University of California, Merced
 
 profile:
   align: right
   image: headshot.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>EECS Department</p>
-    <p>University of California, Merced</p>
-    <p>Merced, CA 95343</p>
+    <p>If you want to live an extraordinary life,</p>
+    <p>the road you walk will always be harder,</p>
+    <p>and you must learn to embrace solitude.</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
