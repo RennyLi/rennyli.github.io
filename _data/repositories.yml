@@ -1,14 +1,26 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - RennyLi
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - RennyLi/PPI-Dataset
+  - RennyLi/Implement-FC-NN-and-CNN-using-numpy
+  - RennyLi/Weather-and-pulsar-stars-prediction-using-logistic-regression-and-suppor-vector-machine
+  - RennyLi/House-prices-and-disease-prediction-using-linear-regression
+  - RennyLi/Adaptive-Bitrate-Streaming
+  - RennyLi/Local-DNS-Server-Implementation
+  - RennyLi/Predict-User-Ratings-Based-On-Netflix-Dataset
+  - RennyLi/pp24fall_project4
+  - RennyLi/pp24fall_project3
+  - RennyLi/pp24fall_project2
+  - RennyLi/pp24fall_project1
+  - RennyLi/basic-unity-vr-challenge
+  - RennyLi/Automate-FHR-detection
+  - RennyLi/Score-simulation
+  - RennyLi/text2audio
+  - RennyLi/asad_review_benchmark
+  - RennyLi/Snake-game-implementation
+  - RennyLi/Huarong-Road-Implementation
+  - RennyLi/Job-application-and-recruitment-platform-website-frontend
+  - RennyLi/Implement-K-means-and-GMM-from-scratch
