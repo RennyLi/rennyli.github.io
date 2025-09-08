@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Courses I have taught as a Teaching Assistant during my Ph.D. at UC Merced.
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 ## University of California, Merced
