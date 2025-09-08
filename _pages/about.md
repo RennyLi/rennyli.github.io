@@ -25,9 +25,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I’m Jingquan Li, or you can call me Renny. You can also <a href="https://www.name-coach.com/jingquan-li" target="_blank">hear how to pronounce my name</a>. I’m an incoming Ph.D. student in Electrical Engineering and Computer Science at the University of California, Merced, advised by <a href="https://www.asarif.com/" target="_blank">Prof. Ahmed Sabbir Arif</a>.
+Hello! I’m Jingquan Li, or you can call me Renny. You can also <a href="https://www.name-coach.com/jingquan-li" target="_blank">hear how to pronounce my name</a>. I’m an first year Ph.D. student in Electrical Engineering and Computer Science at the University of California, Merced, advised by <a href="https://www.asarif.com/" target="_blank">Prof. Ahmed Sabbir Arif</a>.
 
-I recently graduated with a B.Eng. in Computer Science from <a href="https://www.cuhk.edu.cn/en" target="_blank">The Chinese University of Hong Kong, Shenzhen</a>, where I was advised by <a href="https://sds.cuhk.edu.cn/en/teacher/498" target="_blank">Prof. Haizhou Li</a> in the C3 Lab, working on EEG signal processing and deep learning for auditory attention decoding.
+I graduated with a B.Eng. in Computer Science from <a href="https://www.cuhk.edu.cn/en" target="_blank">The Chinese University of Hong Kong, Shenzhen</a>, where I was advised by <a href="https://sds.cuhk.edu.cn/en/teacher/498" target="_blank">Prof. Haizhou Li</a> in the C3 Lab, working on EEG signal processing and deep learning for auditory attention decoding.
 
 I also conducted research at:
 - Shenzhen Research Institute of Big Data (SRIBD) with <a href="https://www.sribd.cn/en/teacher/28" target="_blank">Prof. Xiang Wan</a>, focusing on fetal heart rate monitoring and esophageal cancer segmentation using multimodal learning and medical imaging.
@@ -41,4 +41,4 @@ My research bridges human-centered computing, biomedical AI, and auditory neuros
 
 Outside academia, I’m a passionate drummer and music lover—especially fond of metalcore and post-rock. [Bring Me The Horizon](https://www.bmthofficial.com/) and [toe](https://www.toe.st/) are among my favorites.
 
-Thanks for stopping by! Feel free to reach out: jingquanli@link.cuhk.edu.cn
+Thanks for stopping by! Feel free to reach out: jingquanli@ucmerced.edu
