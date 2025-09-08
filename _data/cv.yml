@@ -3,8 +3,6 @@
   contents:
     - name: Full Name
       value: Jingquan Li
-    - name: Date of Birth
-      value: 22nd March 2002
     - name: Languages
       value: English, Mandarin
 
@@ -26,7 +24,7 @@
         - Focus: EEG signal processing; auditory attention decoding; deep learning
         - Location: Shenzhen, Guangdong, China
 
-- title: Experience
+- title: Experiences
   type: time_table
   contents:
     - title: EEG Signal Processing and Deep Learning for Auditory Neuroscience
