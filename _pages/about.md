@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Ph.D. Student in EECS, University of California, Merced
-nav: true
+nav: false
 nav_order: 1
 
 profile:
