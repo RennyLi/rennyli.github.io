@@ -28,7 +28,7 @@
   type: time_table
   contents:
     - title: EEG Signal Processing and Deep Learning for Auditory Neuroscience
-      institution: CUHKSZ – Cross-modal Cognitive Computing (C3) Lab, Supervisor: Prof. Haizhou Li
+      institution: "CUHKSZ – Cross-modal Cognitive Computing (C3) Lab, Supervisor: Prof. Haizhou Li"
       year: 01/2024 – Present
       description:
         - EEG Electrode Visualization with LeGUI; MRI/CT DICOM to NIfTI via dcm2niix
@@ -37,7 +37,7 @@
         - EEG Music Emotion Recognition (ICASSP 2025); hierarchical model integrating EEG and music features
         - Location: Shenzhen, China
     - title: AIGC-Driven Approaches for Memory Assistance and Human-AI Interaction
-      institution: Southern University of Science & Technology, Supervisor: Prof. Pengcheng An
+      institution: "Southern University of Science & Technology, Supervisor: Prof. Pengcheng An"
       year: 02/2024 – Present
       description:
         - Memory augmentation pipeline with Transformer-based LLMs and LumaAI-generated videos
@@ -45,7 +45,7 @@
         - Controlled study (n=100) comparing video/image/text aids; repeated-measures and mixed ANOVA
         - Location: Shenzhen, China
     - title: Multimodal Fusion and Data Augmentation for Neonatal Asphyxia Prediction
-      institution: Shenzhen Research Institute of Big Data, Supervisor: Prof. Xiang Wan
+      institution: "Shenzhen Research Institute of Big Data, Supervisor: Prof. Xiang Wan"
       year: 05/2024 – Present
       description:
         - Processed 55,200 delivery records; built dataset with 482 positive and 1,500 control samples
@@ -53,7 +53,7 @@
         - Reproduced PE-MVCNET; diffusion models for synthetic data and class imbalance mitigation
         - Location: Shenzhen, China
     - title: Protein Interaction Prediction – Deep Learning Benchmarking and Visualization
-      institution: Shenzhen University of Advanced Technology, Supervisor: Prof. Gang Cao
+      institution: "Shenzhen University of Advanced Technology, Supervisor: Prof. Gang Cao"
       year: 05/2024 – 01/2025
       description:
         - Benchmarked embeddings (SeqVec, contact maps); improved long-sequence limitations via short-sequence training
@@ -61,7 +61,7 @@
         - Trained optimized GNNs achieving 99.94% accuracy and 98.85% F1 on curated data
         - Location: Shenzhen, China
     - title: Technical Product Manager (Intern)
-      institution: Microsoft – Search Technology Center Asia (STCA), Supervisor: Xinwei Nie
+      institution: "Microsoft – Search Technology Center Asia (STCA), Supervisor: Xinwei Nie"
       year: 07/2022 – 12/2022
       description:
         - Competitor analysis of browser extensions; ML-driven improvements to translation plugins for Bing
