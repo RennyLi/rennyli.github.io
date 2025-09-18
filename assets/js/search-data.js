@@ -55,11 +55,11 @@ ninja.data = [{
             window.location.href = "/blog/2025/gen-ai-healthcare/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
+      },{id: "books-intelligent-computing-for-interactive-system-design",
+          title: 'Intelligent Computing for Interactive System Design',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/intelligent_computing_interactive_systems/";
             },},{id: "news-assistant-product-manager-intern-at-tencent-cloud-led-major-upgrades-for-web-solutions-and-helped-shape-a-more-seo-friendly-ecosystem",
           title: 'Assistant Product Manager Intern at Tencent Cloud — led major upgrades for web...',
           description: "",
