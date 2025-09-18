@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Courses I have taught as a Teaching Assistant during my Ph.D. at UC Merced.",
@@ -157,11 +150,11 @@ ninja.data = [{
           window.open("https://github.com/RennyLi", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/jingquanli/", "_blank");
+          window.open("https://www.linkedin.com/in/jingquanli", "_blank");
         },
       },{
         id: 'social-orcid',
