@@ -11,7 +11,7 @@ profile:
   image: headshot.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="/assets/pdf/Jingquan Li_CV.pdf" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i> Download CV</a></p>
+    <p><a href="{{ '/Jingquan_Li_CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i> Download CV</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
