@@ -20,11 +20,7 @@ github_username: RennyLi # your GitHub user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-# linkedin_username: Jingquan Li # your LinkedIn user name
-custom_social:
-  logo: https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/linkedin.svg
-  title: LinkedIn
-  url: https://www.linkedin.com/in/jingquanli/
+linkedin_username: jingquanli # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 orcid_id: 0009-0000-5516-9709 # your ORCID ID
