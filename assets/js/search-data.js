@@ -9,14 +9,7 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "projects",
           description: "A growing collection of your cool projects.",
           section: "Navigation",
@@ -164,11 +157,11 @@ ninja.data = [{
           window.open("https://github.com/RennyLi", "_blank");
         },
       },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
+        id: 'social-custom_social',
+        title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Jingquan Li", "_blank");
+          window.open("https://www.linkedin.com/in/jingquanli/", "_blank");
         },
       },{
         id: 'social-orcid',
