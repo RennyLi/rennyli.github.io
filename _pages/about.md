@@ -16,15 +16,6 @@ profile:
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
-announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 Hello! I’m Jingquan Li, or you can call me Renny. You can also <a href="https://www.name-coach.com/jingquan-li" target="_blank">hear how to pronounce my name</a>. I’m an first year Ph.D. student in Electrical Engineering and Computer Science at the University of California, Merced, advised by <a href="https://www.asarif.com/" target="_blank">Prof. Ahmed Sabbir Arif</a>. My research interests lie in Human-Computer Interaction (HCI).
