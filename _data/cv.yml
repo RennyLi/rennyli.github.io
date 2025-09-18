@@ -12,17 +12,9 @@
     - title: Ph.D. in Electrical Engineering and Computer Science (EECS)
       institution: University of California, Merced
       year: 2025 - Present
-      description:
-        - Inclusive Interactive Lab (PI: Prof. Ahmed Sabbir Arif)
-        - Research interests: Human-Computer Interaction
-        - Location: Merced, California, USA
     - title: B.Eng. in Computer Science
       institution: The Chinese University of Hong Kong, Shenzhen
       year: 2019 - 2025
-      description:
-        - C3 Lab, advised by Prof. Haizhou Li
-        - Focus: EEG signal processing; auditory attention decoding; deep learning
-        - Location: Shenzhen, Guangdong, China
 
 - title: Experiences
   type: time_table
