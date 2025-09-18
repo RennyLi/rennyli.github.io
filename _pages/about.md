@@ -13,7 +13,7 @@ profile:
   more_info: >
     <p>"If you want to live an extraordinary life, the road you walk will always be harder, and you must learn to embrace solitude."</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
